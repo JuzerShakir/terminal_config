@@ -146,6 +146,7 @@ alias railss='jump rails'
 alias rails_prac='jump rails_prac'
 alias react='jump react'
 alias css='jump css'
+alias c-materials='jump c-materials'
 alias contribute='jump contribute'
 alias terminal_config='jump terminal_config'
 
