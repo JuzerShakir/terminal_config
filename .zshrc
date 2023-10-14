@@ -150,11 +150,8 @@ alias tailwind='jump tailwind'
 alias c-materials='jump c-materials'
 alias contribute='jump contribute'
 alias terminal_config='jump terminal_config'
-
-
 # * lists all the ruby versions installed
 alias ruby_root="/usr/share/rvm/gems"
-
 # * lists all the rails versions installed for the active ruby version
 alias rails_list='gem list | grep "^rails ("'
 
